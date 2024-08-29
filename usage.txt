@@ -1,0 +1,11 @@
+Git clone https://github.com/kpnishandh/PRODIGY_CS_01.git
+
+cd PRODIGY_CS_01
+use python3 command to run the script in the terminal
+choose what u want to do 
+     ENCRYPTION  = (do u want to encrypt the message please diel positive shift value like eg:5 or do u want......)
+     DECRYPTION  = (do u want to decrypt the message please diel negative shift value like eg:-5 or do u want......)
+enter the message that to be encrypted or decrypted
+enter the key or shift to be applied in decrypting or encrypting the message 
+
+     #THE MESSAGE WILL ENCRYPTED OR DECRYPTED
